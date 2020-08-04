@@ -1,0 +1,5 @@
+https://www.youtube.com/youtubei/v1/comment
+upload.youtube.com
+studio.youtube.com
+vimeo.com/manage
+action=add_comment
